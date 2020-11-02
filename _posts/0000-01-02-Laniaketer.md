@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second file"
 
-your text:
+Brain Power!!!!!
 using the left arrow to go back
